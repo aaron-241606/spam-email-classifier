@@ -92,4 +92,4 @@ Raw Email Text
 
 ## 🏢 Credits
 
-**Prodigy Infotech** – Task-07 Internship Project
+**CODEC TECHNOLOGIES** – Task-07 Internship Project
